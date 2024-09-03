@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Aravinth Welcome to My Github Profile👋</h1>
+<h1 align="center">Hi there! 👋, I'm Aravinth Welcome to My Github Profile👋</h1>
 <h3 align="center">As a fresher, I am a passionate Software Tester with a solid foundation in Manual and Automation Testing and a strong understanding of SDLC and STLC. Skilled in creating and executing test cases and regression testing, I am proficient in tools like JIRA and Selenium WebDriver. I have demonstrated expertise in Core Java and SQL, and I am well-versed in Agile methodology. I am eager to apply and enhance these skills in a real-world setting to ensure the highest quality of software development through iterative processes and continuous improvement.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravinth010803&label=Profile%20views&color=0e75b6&style=flat" alt="aravinth010803" /> </p>
